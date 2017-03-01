@@ -23,6 +23,10 @@ cas:
 
 and do :
 ```
+npm install
+bower install
+grunt install
+
 mvn spring-boot:run
 ```
 go on http://LOCAL_ADDRESS:LOCAL_PORT/index.html#/
